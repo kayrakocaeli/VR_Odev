@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Torus
-  - Stairs
-  - Arch
+  - Prism
+  - Sphere
+  - Cone
   layers:
   - Default
   - TransparentFX
@@ -14,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - socket object
+  - 
   - 
   - 
   - 
